@@ -35,3 +35,7 @@ replay_pid*
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Local push helper tools
+gh
+push.sh
